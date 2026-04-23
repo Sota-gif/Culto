@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evangelismo Criativo - Missão Jovem</title>
+    <style>
+        :root {
+            --primary-brown: #1104a6;
+            --secondary-brown: #0c5596;
+            --gold: #2317d4;
+            --blue: #0b5394;
+            --light-bg: #f9f9f9;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--light-bg);
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Cabeçalho */
+        header {
+            background: linear-gradient(135deg, var(--primary-brown), var(--secondary-brown));
+            color: white;
+            text-align: center;
+            padding: 4rem 1rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 3.5rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 1rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .verse-box {
+            background-color: var(--secondary-brown);
+            display: inline-block;
+            padding: 1rem 2rem;
+            border-radius: 5px;
+            border-left: 5px solid var(--gold);
+            margin-top: 1rem;
+            max-width: 800px;
+        }
+        .verse-box:hover{
+            transition: 0.5s;
+            box-shadow: 10px 15px 10px #204563;
+        }
+
+        .verse-box p {
+            font-size: 1.2rem;
+            font-style: italic;
+            font-weight: bold;
+        }
+
+        /* Seção de Informações */
+        .info-section {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 2rem;
+            padding: 3rem 1rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .info-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            text-align: center;
+            flex: 1;
+            min-width: 250px;
+            border-top: 4px solid var(--blue);
+            transition: transform 0.3s ease;
+        }
+
+        .info-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .info-card h3 {
+            color: var(--blue);
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        /* Cronômetro */
+        .countdown-section {
+            text-align: center;
+            padding: 3rem 1rem;
+            background-color: white;
+        }
+
+        .countdown-section h2 {
+            color: var(--primary-brown);
+            margin-bottom: 2rem;
+        }
+
+        #timer {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--secondary-brown);
+        }
+
+        .time-box {
+            background: var(--light-bg);
+            padding: 1rem;
+            border-radius: 8px;
+            min-width: 100px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .time-box span {
+            display: block;
+            font-size: 1rem;
+            font-weight: normal;
+            color: #686868;
+            text-transform: uppercase;
+        }
+
+        /* Organização */
+        .org-section {
+            text-align: center;
+            padding: 3rem 1rem;
+            background: linear-gradient(to right, #1c74c1, #095297);
+            color: white;
+        }
+
+        .org-section h2 {
+            color: var(--gold);
+            margin-bottom: 1rem;
+            color: #f9f9f9;
+        }
+
+        /* Formulário de Presença */
+        .rsvp-section {
+            padding: 4rem 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .rsvp-section h2 {
+            color: var(--primary-brown);
+            margin-bottom: 1.5rem;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        input {
+            padding: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+        .submit {
+            padding: 1rem;
+            background-color: var(--blue);
+            color: var(--primary-brown);
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+       .submit:hover {
+            background-color: #b88a10;
+        }
+
+        /* Rodapé */
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background-color: var(--primary-brown);
+            color: white;
+        }
+        .localDaIgreja{
+            color: #126bbd;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2.5rem;
+            }
+            #timer {
+                flex-wrap: wrap;
+            }
+        }
+        .nsei{
+            width: 150px;
+            border-radius: 15px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Hinos Cantados</h1>
+        <div class="verse-box">
+            <p>"Todo Ser Que Respira Louve Ao Senhor"<br> - Salmos 150:6 </p>
+        </div>
+    </header>
+
+    <section class="info-section">
+        <div class="info-card">
+            <h3>📅  Data e Hora</h3>
+            <p><strong>Dia 24/04 - Sexta-feira</strong></p>
+            <p>Horário: <strong>19:30</strong></p>
+        </div>
+        <div class="info-card">
+            <h3>📍 Templo </h3>
+            <p><strong><a href="https://maps.app.goo.gl/cm4ZDwG4xrgPcjnk9" class="localDaIgreja" target="_blank">Igreja Nova Vida</a></strong></p>
+            <p>Avenida Principal, Esquina Da Rua 14 Proximo Ao Supermercado União.</p>
+        </div>
+    </section>
+
+    <section class="countdown-section">
+        <h2>Faltam apenas:</h2>
+        <div id="timer">
+            <div class="time-box" id="days">00<span>Dias</span></div>
+            <div class="time-box" id="hours">00<span>Horas</span></div>
+            <div class="time-box" id="minutes">00<span>Minutos</span></div>
+            <div class="time-box" id="seconds">00<span>Segundos</span></div>
+        </div>
+    </section>
+
+    <section class="org-section">
+        <h2>Organização</h2>
+        <p><strong>Missão Jovem</strong> - Assembleia de Deus Missão Marabá</p>
+        <p style="margin-top: 10px; font-size: 1.2rem;">Vocal Mais Que Vencedores</p>
+    </section>
+
+    <section class="rsvp-section">
+        <h2>Area De Hinos</h2>
+        <p style="margin-bottom: 20px;">Diga o Hino o Cantor e Seu Nome </p>
+        <form action="https://formspree.io/f/xbdqolbo" method="POST">
+            <input type="text" name="Nome" placeholder="Seu Nome Completo" required>
+            <input type="text" name="Hino" placeholder="Hino Que Deseja (Ou Um Trecho Dele)" required> 
+            <button class="nsei" type="button" onclick="preencherFormularioNome()">Não Sei O Nome</button> 
+            <input type="text" name="Cantor" placeholder="Cantor Do Hino Que Deseja" required>
+            <button class="nsei" type="button" onclick="preencherFormularioHino()">Não Sei O Cantor</button>
+            <button type="submit" class="submit">Confirmar Presença</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Evangelismo Criativo | Missão Jovem</p>
+    </footer>
+
+    <script>
+        // Configuração do Cronômetro
+        // ATENÇÃO: Configure o ano correto. Assumindo o próximo 21 de Abril.
+        const countDownDate = new Date("April 24, 2026 19:30:00").getTime();
+
+        const x = setInterval(function() {
+            const now = new Date().getTime();
+            const distance = countDownDate - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById("days").innerHTML = days + "<span>Dias</span>";
+            document.getElementById("hours").innerHTML = hours + "<span>Horas</span>";
+            document.getElementById("minutes").innerHTML = minutes + "<span>Minutos</span>";
+            document.getElementById("seconds").innerHTML = seconds + "<span>Segundos</span>";
+
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("timer").innerHTML = "<h2>O evento já começou!</h2>";
+            }
+        }, 1000);
+
+        // Ação do formulário
+        document.getElementById('rsvpForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const name = document.getElementById('name').value;
+            alert(`Obrigado, ${name}! Sua presença foi confirmada. Nos vemos lá!`);
+            this.reset();
+        });
+         function preencherFormularioNome() {
+    // Seleciona os campos pelo atributo 'name' e define o valor
+    document.querySelector('input[name="Hino"]').value = "Hino Avulso";
+    document.querySelector('input[name="Nome"]').focus();
+         }
+    function preencherFormularioHino() {
+    document.querySelector('input[name="Cantor"]').value = "Desconhecido";
+    
+    // Opcional: focar no campo Nome para o usuário não esquecer de preencher
+    document.querySelector('input[name="Nome"]').focus();
+}
+    </script>
+</body>
+</html>
