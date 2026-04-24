@@ -19,6 +19,14 @@
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
+        .dest:Hover {
+            color: #09bde6;
+            display: inline-block;
+            transform: scale(1.10);
+            cursor: zoom-in;  
+            transition: color 0.3s; 
+            padding: 5px;       
+        }
 
         body {
             background-color: var(--light-bg);
@@ -207,11 +215,20 @@
             #timer {
                 flex-wrap: wrap;
             }
+        
+        }
+        .DivHino{
         }
         .nsei{
-            width: 150px;
-            border-radius: 15px;
-            color: red;
+            width: 75px;
+            scroll-padding-bottom: var(--blue);
+            padding-bottom: 17px;
+            border-radius: 5px;
+            color: rgb(3, 40, 133);
+            border-color: #ccc;
+            font-family: cursive;
+            font-size: 14px;
+            text-align: center;
         }
     </style>
 </head>
@@ -233,7 +250,17 @@
         <div class="info-card">
             <h3>📍 Templo </h3>
             <p><strong><a href="https://maps.app.goo.gl/cm4ZDwG4xrgPcjnk9" class="localDaIgreja" target="_blank">Igreja Nova Vida</a></strong></p>
-            <p>Avenida Principal, Esquina Da Rua 14 Proximo Ao Supermercado União.</p>
+            <p><span class="dest">Avenida</span> 
+                <span class="dest">Principal</span>, 
+                <span class="dest">Esquina</span> 
+                <span class="dest">Da</span>
+                <span class="dest">Rua</span> 
+                <span class="dest">14 </span>
+                <span class="dest">Proximo</span> 
+                <span class="dest">Ao</span> 
+                <span class="dest">Supermercado </span>
+                <span class="dest">União</span>.
+            </p>
         </div>
     </section>
 
@@ -247,10 +274,24 @@
         </div>
     </section>
 
-    <section class="org-section">
+<section class="org-section">
         <h2>Organização</h2>
-        <p><strong>Missão Jovem</strong> - Assembleia de Deus Missão Marabá</p>
-        <p style="margin-top: 10px; font-size: 1.2rem;">Vocal Mais Que Vencedores</p>
+    <p>
+        <strong> <span class="dest">Missão </span> 
+            <span class="dest">Jovem</span>
+        </strong> -  
+            <span class="dest">Assembleia</span>  
+            <span class="dest">de</span>  
+            <span class="dest">Deus</span> 
+            <span class="dest">Missão</span>  
+            <span class="dest">Marabá</span>
+    </p>
+        <p style="margin-top: 10px; font-size: 1.2rem;">
+            <span class="dest">Vocal</span> 
+            <span class="dest">Mais</span> 
+            <span class="dest">Que </span>
+            <span class="dest">Vencedores</span>
+        </p>
     </section>
 
     <section class="rsvp-section">
@@ -258,10 +299,16 @@
         <p style="margin-bottom: 20px;">Diga o Hino o Cantor e Seu Nome </p>
         <form action="https://formspree.io/f/xbdqolbo" method="POST">
             <input type="text" name="Nome" placeholder="Seu Nome Completo" required>
+    <div class="container">
+        <div class="DivHino">
             <input type="text" name="Hino" placeholder="Hino Que Deseja (Ou Um Trecho Dele)" required> 
             <button class="nsei" type="button" onclick="preencherFormularioNome()">Não Sei O Nome</button> 
+        </div>
+        <div class="DivCantor">
             <input type="text" name="Cantor" placeholder="Cantor Do Hino Que Deseja" required>
             <button class="nsei" type="button" onclick="preencherFormularioHino()">Não Sei O Cantor</button>
+        </div>
+    </div>
             <button type="submit" class="submit">Confirmar Presença</button>
         </form>
     </section>
