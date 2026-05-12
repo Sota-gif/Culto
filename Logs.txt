@@ -1,0 +1,1235 @@
+Logs for your project will appear below. Press Ctrl+C to exit.
+Web Bundling failed 970ms index.js (160 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 319ms index.js (158 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 789ms index.js (175 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 341ms index.js (178 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 213ms index.js (178 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 112ms index.js (1 module)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 331ms index.js (177 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 95ms index.js (1 module)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 284ms index.js (155 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 250ms index.js (155 modules)
+Unable to resolve "../assets/gatinhoDevMobile.jpeg" from "App.js"
+  18 |   return (
+  19 |     <View style={styles.card}>
+> 20 |           <image source={require('../assets/gatinhoDevMobile.jpeg')}
+     |                                   ^
+  21 |           style={styles.img}
+  22 |          />
+  23 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "../assets/gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 3979ms index.js (221 modules)
+Web Bundled 184ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundling failed 413ms index.js (1 module)
+Unable to resolve "./gatinhoDevMobile.jpg" from "App.js"
+  19 |     <View style={styles.card}>
+  20 |           <Image
+> 21 |             source={require('./gatinhoDevMobile.jpg')}
+     |                              ^
+  22 |             style={styles.imgPerfil}
+  23 |           />
+  24 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 1266ms index.js (1 module)
+Unable to resolve "./gatinhoDevMobile.jpg" from "App.js"
+  20 |         <section>
+  21 |           <Image
+> 22 |             source={require('./gatinhoDevMobile.jpg')}
+     |                              ^
+  23 |             style={styles.imgPerfil}
+  24 |           />
+  25 |           </section>
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 862ms index.js (1 module)
+Unable to resolve "./gatinhoDevMobile.jpg" from "App.js"
+  20 |         <section>
+  21 |           <Image
+> 22 |             source={require('./gatinhoDevMobile.jpg')}
+     |                              ^
+  23 |             style={styles.imgPerfil}
+  24 |           />
+  25 |           </section>
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 287ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Unable to resolve "./gatinhoDevMobile.jpg" from "App.js"
+  36 |         <Text style={styles.header}>Sistema Escolar</Text>
+  37 |         <Image
+> 38 |         source={require('./gatinhoDevMobile.jpg')}
+     |                          ^
+  39 |         style={styles.imgPerfil}
+  40 |        />
+  41 |         <Perfil nome="Ana Clara" turma="3° Ano De Informatica (Os melhores)"
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 27ms index.js (1 module)
+Unable to resolve "./gatinhoDevMobile.jpg" from "App.js"
+  36 |         <Text style={styles.header}>Sistema Escolar</Text>
+  37 |         <Image
+> 38 |         source={require('./gatinhoDevMobile.jpg')}
+     |                          ^
+  39 |         style={styles.imgPerfil}
+  40 |        />
+  41 |         <Perfil nome="Ana Clara" turma="3° Ano De Informatica (Os melhores)"
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 157ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  36 |         <Text style={styles.header}>Sistema Escolar</Text>
+  37 |         <Image
+> 38 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  39 |         style={styles.imgPerfil}
+  40 |        />
+  41 |         <Perfil nome="Ana Clara" turma="3° Ano De Informatica (Os melhores)"
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 12ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  36 |         <Text style={styles.header}>Sistema Escolar</Text>
+  37 |         <Image
+> 38 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  39 |         style={styles.imgPerfil}
+  40 |        />
+  41 |         <Perfil nome="Ana Clara" turma="3° Ano De Informatica (Os melhores)"
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 137ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 12ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 9ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 7ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 13ms index.js (1 module)
+Unable to resolve "./imagem/gatinhoDevMobile.jpg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./imagem/gatinhoDevMobile.jpg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "./imagem/gatinhoDevMobile.jpg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 428ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundling failed 395ms index.js (1 module)
+Unable to resolve "gatinhoDevMobile.jpeg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('gatinhoDevMobile.jpeg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 273ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 53ms index.js (1 module)
+Web Bundled 123ms index.js (1 module)
+Web Bundled 126ms index.js (1 module)
+Web Bundled 42ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 258ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 70ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Unable to resolve "imagem/KnigthDevMobile.jpeg" from "App.js"
+  24 |        />
+  25 |        <Image
+> 26 |         source={require('imagem/KnigthDevMobile.jpeg')}
+     |                          ^
+  27 |         style={styles.imgPerfil}
+  28 |        />
+  29 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "imagem/KnigthDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 28ms index.js (1 module)
+Unable to resolve "imagem/KnigthDevMobile.jpeg" from "App.js"
+  24 |        />
+  25 |        <Image
+> 26 |         source={require('imagem/KnigthDevMobile.jpeg')}
+     |                          ^
+  27 |         style={styles.imgPerfil}
+  28 |        />
+  29 |           <Text style={styles.nome}> {nome}</Text>
+
+Import stack:
+
+ App.js
+ | import "imagem/KnigthDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 157ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 32ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 38ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 40ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 42ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 59ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Unable to resolve "./gatinhoDevMobile.jpeg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./gatinhoDevMobile.jpeg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |        <Image
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 15ms index.js (1 module)
+Unable to resolve "./gatinhoDevMobile.jpeg" from "App.js"
+  20 |     <View style={styles.card}>
+  21 |        <Image
+> 22 |         source={require('./gatinhoDevMobile.jpeg')}
+     |                          ^
+  23 |         style={styles.imgPerfil}
+  24 |        />
+  25 |        <Image
+
+Import stack:
+
+ App.js
+ | import "./gatinhoDevMobile.jpeg"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 184ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 24ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 193ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 26ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 25ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 39ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 85ms index.js (1 module)
+Unable to resolve "./TesteComponente" from "App.js"
+  1 | import React from 'react';
+  2 | import { View, Text, StyleSheet, ScrollView, SafeAreaView, Image} from 'react-native';
+> 3 | import TesteComponente from './TesteComponente';
+    |                              ^
+  4 |
+  5 |
+  6 | // Ele está no mesmo arquivo para evitar erro de importação pq o chines hackeando meu notebook n deixa eu exportar os componentes
+
+Import stack:
+
+ App.js
+ | import "./TesteComponente"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundling failed 27ms index.js (1 module)
+Unable to resolve "./TesteComponente" from "App.js"
+  1 | import React from 'react';
+  2 | import { View, Text, StyleSheet, ScrollView, SafeAreaView, Image} from 'react-native';
+> 3 | import TesteComponente from './TesteComponente';
+    |                              ^
+  4 |
+  5 |
+  6 | // Ele está no mesmo arquivo para evitar erro de importação pq o chines hackeando meu notebook n deixa eu exportar os componentes
+
+Import stack:
+
+ App.js
+ | import "./TesteComponente"
+
+ index.js
+ | import "./App"
+
+
+ | import "./index"
+
+Web Bundled 90ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 24ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 19ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundling failed 22ms index.js (1 module)
+ ERROR  SyntaxError: C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\App.js: Identifier 'App' has already been declared. (62:24)
+
+  60 | }
+  61 |
+> 62 | export default function App() {
+     |                         ^
+  63 |   return (
+  64 |     <SafeAreaView style={{ flex: 1 }}>
+  65 |       <TesteComponente />
+    at constructor (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:365:19)
+    at FlowParserMixin.raise (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:6599:19)
+    at FlowScopeHandler.checkRedeclarationInScope (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1619:19)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1585:12)
+    at FlowScopeHandler.declareName (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:1686:11)
+    at FlowParserMixin.registerFunctionStatementId (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13466:16)
+    at FlowParserMixin.parseFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13450:12)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13907:19)
+    at FlowParserMixin.parseExportDefaultExpression (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2966:18)
+    at FlowParserMixin.parseExport (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13828:25)
+    at FlowParserMixin.parseStatementContent (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12878:27)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12767:17)
+    at FlowParserMixin.parseStatementLike (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:2918:24)
+    at FlowParserMixin.parseModuleItem (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12744:17)
+    at FlowParserMixin.parseBlockOrModuleBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13316:36)
+    at FlowParserMixin.parseBlockBody (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:13309:10)
+    at FlowParserMixin.parseProgram (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12622:10)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:12612:25)
+    at FlowParserMixin.parseTopLevel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:3685:28)
+    at FlowParserMixin.parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14488:25)
+    at parse (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\parser\lib\index.js:14501:26)
+    at parser (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at evaluateSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:251:28)
+    at sync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\gensync\index.js:89:14)
+    at stopHiding - secret - don't use this - v1 (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\errors\rewrite-stack-trace.js:47:12)
+    at Object.transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\@babel\core\lib\transform.js:40:76)
+    at parseWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:75:18)
+    at transformSync (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transformSync.js:64:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\babel-transformer.js:132:58)
+    at transformJSWithBabel (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:478:47)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\metro-transform-worker.js:595:12)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\expo\node_modules\@expo\metro-config\build\transform-worker\transform-worker.js:178:19)
+    at transformFile (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:67:36)
+    at Object.transform (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\metro\src\DeltaBundler\Worker.flow.js:42:10)
+    at execFunction (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:167:17)
+    at execHelper (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:155:5)
+    at execMethod (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:158:5)
+    at MessagePort.messageListener (C:\Users\ribei\OneDrive\Desktop\TrabalhoDoDiogo\TrabalhoDevMobile\node_modules\jest-worker\build\workers\threadChild.js:52:7)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:843:20)
+    at MessagePort.<anonymous> (node:internal/per_context/messageport:23:28)
+Web Bundled 161ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 37ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 13093ms index.js (1 module)
+Web Bundled 11526ms index.js (1 module)
+Web Bundled 7800ms index.js (1 module)
+Web Bundled 7669ms index.js (1 module)
+Web Bundled 7498ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 45ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 40ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+ ERROR  Project is incompatible with this version of Expo Go
+
+This project requires a newer version of Expo Go.
+
+How to fix this error:
+Download the latest version of Expo Go from the Play Store.
+ ERROR  Project is incompatible with this version of Expo Go
+
+This project requires a newer version of Expo Go.
+
+How to fix this error:
+Download the latest version of Expo Go from the Play Store.
